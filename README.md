@@ -12,22 +12,22 @@ This table will help you to redirect to the respective folders
 
  **Task-List**               | **Description**     | **Status**        |
  ----------------------------|---------------------|-------------------|
- [Task-00]()                 | Install Ubuntu 20.04 [Desktop]                                    |Completed                                                |
- [Task-01]()                 | Star all the [amFOSS](https://github.com/amfoss) repositories     |Completed                                                |
- [Task-02]()                 | Begin your journey with Linux and Git                             |Completed                                                |
- [Task-03]()                 | Programming                                                       |Not Done                                                 |
- [Task-04]()                 | Aerglo Mars                                                       |Not DOne                                                 |
- [Task-05]()                 | Let me C                                                          |Not DOne                                                 |
- [Task-06]()                 | Flutter based UI task                                             |Partially done(will come under Not DOne list)            |
- [Task-07]()                 | Rich Scraper                                                      |Not Done                                                 |
- [Task-08]()                 | JSExplorer                                                        |Completed                                                |
+ [Task-00](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-00) | Install Ubuntu 20.04 [Desktop]                                    |Completed  |
+ [Task-01](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-01) | Star all the [amFOSS](https://github.com/amfoss) repositories     |Completed  |
+ [Task-02](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-02) | Begin your journey with Linux and Git                             |Completed  |
+ [Task-03](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-03) | Programming                                                       |Not Done   |
+ [Task-04](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-04) | Aerglo Mars                                                       |Not DOne   |
+ [Task-05](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-05) | Let me C                                                          |Not DOne   |
+ [Task-06](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-06) | Flutter based UI task                    |Partially done(will come under Not DOne list)|
+ [Task-07](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-07) | Rich Scraper                                                      |Not Done   |
+ [Task-08](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-08) | JSExplorer                                                        |Completed  |
  [Task-09]()                 | Setup a Simple Personal Website                                   |NOt Done                                                 |
  [Task-10]()                 | Cs-50                                                             |Completed(scratch)                                       |
  [Task-11]()                 | Poster Design                                                     |Completed                                                |
  [Task-12]()                 | Make the Block                                                    | Not DOne                                                |
  [Task-13]()                 | Circuit Design (for Hardware freaks)                              |Not done                                                 |
  [Task-14]()                 | Bandit                                                            |Completed                                                |
- [Task-15]()                 | Project Euler (for math geeks)                                    |Completed(euler program 1 )                              |
+ [Task-15]()                 | Project Euler (for math geeks)                                    |Partially done (Pograms till euler#3 )                   |
 
 ## My views about the tasks
 
