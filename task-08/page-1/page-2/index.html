@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="shortcut icon" type="image/x-icon" href=salami-pizza.png>
+    <title>JS</title>
+  </head>
+  <body>
+    <!--On click of Button-1 store something in localStorage-->
+    <button class="button">Button-1</button>
+    <!--On click of Button-2 show a popup with current time--><a href=time.html>
+    <button class="button">Button-2</button></a>
+    <!--On click of Button-3 change the background-->
+    <button class="button" onclick="body.style.background='red';">Button-3</button>
+    <!--On click of Button-4 refresh the page-->
+    <button class="button" onClick="window.location.reload();">Button-4</button>
+    <!--On click of Button-5 open a new window-->
+    <button class="button" onclick="window.open('https://www.google.com','newwindow','width=1500,height=900');">Button-5</button>
+    <!--On click of Button-6 spam the console with 'I did it'-->
+    <button class="button" onclick="insideconsole()">Button-6</button>
+    <script type="text/javascript">
+      function insideconsole()
+      {
+          var i=0;
+          for (let i=0;i<101;i++)
+          {
+          console.log("I Did It"+i);
+          }
+      }
+  </script>
+    
+      <!--set form action-->
+      <form action="page-3/chart.html">
+      <button class="button">Next</button></form>
+      </body>
+</html>
