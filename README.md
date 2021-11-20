@@ -2,7 +2,7 @@
 
 ## Hi!!! myself S.Rakshith pursing my Btech at [Amrita vishwa Vidhyapeetham(amritapuri campus)](https://www.amrita.edu/campus/amritapuri) **S1 ECEA**
 
-## I am from Ernakulam,Kerala (indian ofc😜😜).
+## I am from Ernakulam,Kerala (From india ofc😜😜).
 ## I am looking forward to learn programming in the first position and also am intrested in created websites and app using FLutter and Android Studios.But still i know a few of the functions and syntaxes in Python.I would say i am basically a noob in the field of programming.I used to keep in mind that i have to complete **A tASK** in a day but wont be able to.I do hrs and hrs of researches which YEAHH literally improved my knowledge.
 
 # Although i havent completed all of the tasks,I have shared my experience on the same .Hope you would enjoy it 😊😊.Thanks to [Akshat Tripathi](https://github.com/Akshatji800/amfoss-tasks-demo) for his helpfull and wonderful demo repository 😊😊
