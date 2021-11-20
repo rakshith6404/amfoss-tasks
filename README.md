@@ -31,7 +31,7 @@ This table will help you to redirect to the respective folders
 
 ## My views about the tasks
 
-#### I honestly would say that these tasks have given me more and more ideas on technologies(both and haradware and software) and also to improve my confidence level a bit more .I wouldnt say that all the tasks given were easy and could be solved without any ease, still some of the tasks like [Flutter]() and [programming]() were quite kind of dfficult for me.Still i have learned many things which i havent learned before and also have come to know more about myself,Cause i havent been this confident ever and also i was lazy ,these tasks took off my laziness and hiked up my curiosity level on doing different tasks.I also have learned a new thing(although i do it,but not that often)**GOOGLING**😜😜.And YEAHH!!! day by day i was improving my knowledge
+#### I honestly would say that these tasks have given me more and more ideas on technologies(both and haradware and software) and also to improve my confidence level a bit more .I wouldnt say that all the tasks given were easy and could be solved without any ease, still some of the tasks like [Flutter](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-06) and [programming](https://github.com/rakshith6404/amfoss-tasks/tree/main/task-03) were quite kind of dfficult for me.Still i have learned many things which i havent learned before and also have come to know more about myself,Cause i havent been this confident ever and also i was lazy ,these tasks took off my laziness and hiked up my curiosity level on doing different tasks.I also have learned a new thing(although i do it,but not that often)**GOOGLING**😜😜.And YEAHH!!! day by day i was improving my knowledge
 
 
 
