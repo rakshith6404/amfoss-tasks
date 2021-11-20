@@ -15,4 +15,4 @@
 ### Do you have any feedback for the selection process?
 
 #### To be Honest,I have never seen selection rounds in to clubs some of the colleges.This gave me more confident that THIS CLUB IS THE CLUB I HAVE TO GO FOR.I was amazed too and also have learned many things during the task.These tasks given by the club actually makes me feel that THERE ARE MANY THINGS TOO THAT I HAVE TO LEARN IN THIS WORLD ABOUT THE TECHNOLOGIES.I(personally0 have learned many things during this period of time.
-                                                                **THANKS TO AMFOSS** 
+                                                             **THANKS TO AMFOSS** 
